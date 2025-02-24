@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @GoldenFieldsPS3
 - 👀 I’m interested in PS3 Homebrew Development
 - 🌱 I’m currently learning C, C++, and some other languages!
-- 💞️ I’m looking to collaborate on Some cool projects with Developers like DeVil303,Aldo's Tools,Bucanero,...
+- 🧑🏼‍💻 I'm looking to collaborate with some talented PS3 Homebrew Developers, in some cases with PSP and PS Vita developers too!
 - 📫 How to reach me: You can reach me via X: GoldenFieldsPS3 or via Discord,any other profile is fake!
-- 😄 Pronouns: He/Him
+- ⚕️ Creator of CellBreakers for PS3
 
 <!---
 GoldenFieldsPS3/GoldenFieldsPS3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
